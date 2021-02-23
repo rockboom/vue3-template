@@ -5,5 +5,8 @@ module.exports = {
     include:[
         'src/**/*',
         'public/**/*',
+    ],
+    external:[
+        'vue'
     ]
 }
