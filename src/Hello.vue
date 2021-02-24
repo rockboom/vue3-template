@@ -15,7 +15,7 @@ export default {
 </script>
 
 <style>
-.hello-vue{
+#hello-vue{
     color: red;
     background-color: aqua;
     color: 24px;
