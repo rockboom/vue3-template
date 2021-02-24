@@ -1,1 +1,1 @@
-This is a Vue3 project
+This is a Vue3 template project
