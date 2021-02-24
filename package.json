@@ -1,6 +1,6 @@
 {
-  "name": "<%=projectName>",
-  "version": "1.0.1",
+  "name": "<%=projectName%>",
+  "version": "0.0.1",
   "description": "Vue3 project",
   "main": "index.js",
   "scripts": {
